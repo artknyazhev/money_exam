@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\ооп с++\\examwallet\\examwallet\\credit.h",
+        "Source": "d:\\ооп с++\\gitmoney\\examwallet\\examwallet\\credit.h",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\ооп с++\\examwallet\\examwallet\\debit.h",
-            "d:\\ооп с++\\examwallet\\examwallet\\bank.h",
-            "d:\\ооп с++\\examwallet\\examwallet\\libre.h",
+            "d:\\ооп с++\\gitmoney\\examwallet\\examwallet\\debit.h",
+            "d:\\ооп с++\\gitmoney\\examwallet\\examwallet\\bank.h",
+            "d:\\ооп с++\\gitmoney\\examwallet\\examwallet\\libre.h",
             "d:\\microsoft\\visualstudio\\packages\\vc\\tools\\msvc\\14.29.30133\\include\\iostream",
             "d:\\microsoft\\visualstudio\\packages\\vc\\tools\\msvc\\14.29.30133\\include\\yvals_core.h",
             "d:\\microsoft\\visualstudio\\packages\\vc\\tools\\msvc\\14.29.30133\\include\\vcruntime.h",

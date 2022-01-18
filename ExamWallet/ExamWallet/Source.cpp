@@ -1,5 +1,5 @@
 #include "credit.h"
-/*Главный файл с реализацей меню и обращений к методам классов*/
+
 int main() {
 	setlocale(LC_ALL, "rus");
 	int choose=1,ind;
